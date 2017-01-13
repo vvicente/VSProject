@@ -67,3 +67,9 @@ C:\Users\vvicente\Source\Workspaces\VSProject\AnotherMVC\AnotherMVC\bin\Microsof
 C:\Users\vvicente\Source\Workspaces\VSProject\AnotherMVC\AnotherMVC\obj\Debug\AnotherMVC.csprojResolveAssemblyReference.cache
 C:\Users\vvicente\Source\Workspaces\VSProject\AnotherMVC\AnotherMVC\obj\Debug\AnotherMVC.dll
 C:\Users\vvicente\Source\Workspaces\VSProject\AnotherMVC\AnotherMVC\obj\Debug\AnotherMVC.pdb
+C:\Users\vvicente\Source\Workspaces\VSProject\AnotherMVC\AnotherMVC\bin\AnotherMVCTest.dll
+C:\Users\vvicente\Source\Workspaces\VSProject\AnotherMVC\AnotherMVC\bin\AnotherMVCTest.pdb
+C:\Users\vvicente\Source\Workspaces\VSProject\AnotherMVC\AnotherMVC\bin\WebDriver.dll
+C:\Users\vvicente\Source\Workspaces\VSProject\AnotherMVC\AnotherMVC\bin\WebDriver.xml
+C:\Users\vvicente\Source\Workspaces\VSProject\AnotherMVC\AnotherMVC\bin\nunit.framework.dll
+C:\Users\vvicente\Source\Workspaces\VSProject\AnotherMVC\AnotherMVC\bin\nunit.framework.xml
